@@ -18,7 +18,7 @@ We welcome folks all around the Globe to help us creating an opensource reposito
 - Discuss ideas in issues
 - Spread the word
 - Reach out with any feedback 
-=======
+
 <h3 align="center"><strong>Note to Beginners</strong></h3>
 
 > These roadmaps cover each and every possible deatils and resources to learn for different paths. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started.
